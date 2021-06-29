@@ -36,7 +36,7 @@ h1 {
     outline: none;
     border: none;
     height: 50px;
-    border-radius: 25px;
+    border-radius: 12px;
     width: 350px;
     margin: 0.25rem;
     transition: .5s;
@@ -44,7 +44,7 @@ h1 {
 }
 
 .add{
-	outline: none;
+    outline: none;
     border: none;
     height: 50px;
     border-radius: 25px;
