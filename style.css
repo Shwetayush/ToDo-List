@@ -2,10 +2,16 @@ html, body {
     width: 50%;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
+	margin-top: 100px;
+	text-align: center;
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoRi55AR0zyoQpPFS2LMuU8lFGMcK43LasA&usqp=CAU") fixed repeat;
 }
+
 
 .container {
     width: 360px;
+	text-align: center;
+    margin-top: 20px;
 }
 
 #inputField {
@@ -13,6 +19,7 @@ html, body {
     height: 46px;
     border-width: 0;
     border: 1px solid black;
+	border-radius: 15px;
     outline: none;
     font-size: 25px;
     vertical-align: middle;
@@ -22,6 +29,7 @@ html, body {
     height: 50px;
     width: 50px;
     border: 1px solid black;
+	border-radius: 15px;
     vertical-align: middle;
     font-size: 30px;
 }
